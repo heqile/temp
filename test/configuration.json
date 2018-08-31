@@ -1,0 +1,11 @@
+{
+  "standard_scenario": [
+    "A",
+    {"B":[{"arg1":"value1"}, {"arg1": "value2"}]},
+    {"C": {"arg2": "value_fff"}}
+  ],
+  "special_scenario": [
+    "A",
+    {"C": {"arg2": "value2_fff"}}
+  ]
+}
